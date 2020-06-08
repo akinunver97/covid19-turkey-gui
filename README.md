@@ -5,3 +5,6 @@ Also GUI has buttons that show graphics of how numbers of death, recovered and c
 
 # Prerequisites
 Having related modules which are numpy, pandas, matplotlib, tkinter, datetime and time
+
+# How to execute
+After download or clone, keep them in same file and run "covidturkey.py"
